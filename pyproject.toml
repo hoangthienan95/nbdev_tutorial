@@ -6,6 +6,7 @@ authors = ["An <hoangthienan95@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+setuptools = "^53.0.0"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
