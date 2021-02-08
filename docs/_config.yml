@@ -1,7 +1,7 @@
-repository: {user}/{lib_name}
+repository: hoangthienan95/nbdev_tutorial
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
+topnav_title: nbdev_tutorial
+site_title: nbdev_tutorial
 company_name: MIT
 description: Nbdev tutorial
 # Set to false to disable KaTeX math
